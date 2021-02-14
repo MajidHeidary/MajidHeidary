@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MajidHeidary
+- 👀 I’m interested in Microsoft .Net
+- 🌱 I’m currently learning Agular And AI
+- 💞️ I’m looking to collaborate on .net Repositories 
+- 📫 MajidHeidary.net@gmail.com
